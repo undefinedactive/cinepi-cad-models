@@ -12,3 +12,7 @@
 
 ## CinePI Komodo 
 - [Thingiverse](https://www.thingiverse.com/thing:6366410)
+
+# Community Builds
+
+[CinePI V2 build](https://github.com/schoolpost/CinePI/wiki/Build-Log) - [@schoolpost](https://github.com/schoolpost) - Raspberry Pi 4B / Compute Module 4 (Unsupported)
