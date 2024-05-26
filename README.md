@@ -16,3 +16,5 @@
 # Community Builds
 
 [CinePI V2 build](https://github.com/schoolpost/CinePI/wiki/Build-Log) - [@schoolpost](https://github.com/schoolpost) - Raspberry Pi 4B / Compute Module 4 (Unsupported)
+
+[CineMate Vertical, CineMate Komodo, CineMate RX100](https://github.com/Tiramisioux/cinemate?tab=readme-ov-file#builds) - [@Tiramisioux](https://github.com/Tiramisioux/) - Raspberry Pi 4B / Compute Module 4 (Unsupported)
